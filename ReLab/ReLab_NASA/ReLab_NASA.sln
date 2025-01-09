@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReLab_NASA", "ReLab_NASA.csproj", "{F5421A5C-7279-4BED-8ABC-696135E22337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReLab_SwissProt", "..\ReLab_SwissProt\ReLab_SwissProt.csproj", "{B51CE81B-17A0-4B74-92B3-E7A8E56E41EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5421A5C-7279-4BED-8ABC-696135E22337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5421A5C-7279-4BED-8ABC-696135E22337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5421A5C-7279-4BED-8ABC-696135E22337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5421A5C-7279-4BED-8ABC-696135E22337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51CE81B-17A0-4B74-92B3-E7A8E56E41EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51CE81B-17A0-4B74-92B3-E7A8E56E41EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51CE81B-17A0-4B74-92B3-E7A8E56E41EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51CE81B-17A0-4B74-92B3-E7A8E56E41EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0395F1D5-D115-4E1C-B70F-6ED1FB92BB35}
+	EndGlobalSection
+EndGlobal

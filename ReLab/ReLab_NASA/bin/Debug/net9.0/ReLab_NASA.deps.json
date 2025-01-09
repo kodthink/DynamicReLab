@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReLab_NASA/1.0.0": {
+        "runtime": {
+          "ReLab_NASA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReLab_NASA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
