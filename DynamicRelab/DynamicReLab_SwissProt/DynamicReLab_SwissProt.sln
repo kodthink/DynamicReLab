@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicReLab_SwissProt", "DynamicReLab_SwissProt\DynamicReLab_SwissProt.csproj", "{D0305C83-A556-4DE3-96C4-4B312CC5A204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReLab_WSU", "..\..\ReLab_WSU\ReLab_WSU.csproj", "{CBB8BC20-7690-4D3B-9821-BEA1E8305890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReLab_WSU", "..\..\ReLab_New\ReLab_WSU\ReLab_WSU.csproj", "{10DA9F7E-BD6A-43FE-A934-4475A4594B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0305C83-A556-4DE3-96C4-4B312CC5A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0305C83-A556-4DE3-96C4-4B312CC5A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0305C83-A556-4DE3-96C4-4B312CC5A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0305C83-A556-4DE3-96C4-4B312CC5A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB8BC20-7690-4D3B-9821-BEA1E8305890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB8BC20-7690-4D3B-9821-BEA1E8305890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB8BC20-7690-4D3B-9821-BEA1E8305890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB8BC20-7690-4D3B-9821-BEA1E8305890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DA9F7E-BD6A-43FE-A934-4475A4594B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DA9F7E-BD6A-43FE-A934-4475A4594B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DA9F7E-BD6A-43FE-A934-4475A4594B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DA9F7E-BD6A-43FE-A934-4475A4594B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

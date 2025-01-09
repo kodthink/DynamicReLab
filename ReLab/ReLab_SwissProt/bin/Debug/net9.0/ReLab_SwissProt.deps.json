@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReLab_SwissProt/1.0.0": {
+        "runtime": {
+          "ReLab_SwissProt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReLab_SwissProt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
